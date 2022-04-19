@@ -26,5 +26,5 @@ utilizar e modificar os códigos relacionados ao projeto**
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Baixar todos os arquivos e incluí-los dentro de uma única pasta e posteriormente abrir o arquivo index.html com navegador de preferência o Google Chrome**
+**Baixar todos os arquivos e incluí-los dentro de uma única pasta e posteriormente abrir o arquivo rpsls.html com navegador de preferência o Google Chrome**
 
